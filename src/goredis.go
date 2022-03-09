@@ -1,4 +1,4 @@
-package goredis
+package goredis2
 
 import "fmt"
 
